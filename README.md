@@ -8,5 +8,5 @@ All other scripts are dependencies. Several scripts in this repository were obta
 
 The files written for this project have the name ‘Gavin Taylor’ at the start of each script and are covered by the MIT licence. Contact gavin.taylor.01@gmail.com for assistance.
 
-Resources: https://130.235.244.138:8001/portal/apis/fileExplorer/share_link.cgi?link=O6vQCBwQV0wRY1fwP4FHa1
+Resources: http://bit.ly/2Yum2xz
 MorphoSource: https://www.morphosource.org/Detail/ProjectDetail/Show/project_id/699
