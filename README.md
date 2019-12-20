@@ -8,5 +8,8 @@ All other scripts are dependencies. Several scripts in this repository were obta
 
 The files written for this project have the name ‘Gavin Taylor’ at the start of each script and are covered by the MIT licence. Contact gavin.taylor.01@gmail.com for assistance.
 
-Resources: See DataDryad link in published paper.
+Resources:
+
+Datadryad: https://dx.doi.org/10.5061/dryad.s502854
+
 MorphoSource: https://www.morphosource.org/Detail/ProjectDetail/Show/project_id/699
